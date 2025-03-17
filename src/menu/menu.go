@@ -7,6 +7,7 @@ import (
 	"os"
 	"strings"
 	"text/tabwriter"
+	// "github.com/fatih/color"
 )
 
 // Main struct to handle options for Command, Description, and the
